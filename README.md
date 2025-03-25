@@ -3,7 +3,7 @@ A Path Finding Visualizer which visualizes path finding algorithms (Dijkstra's ,
 
 ![Demo](demo.gif)
 
-### [LIVE DEMO](https://satyakoppalu.github.io/Path-Traversal-Visualizer/)
+### [LIVE DEMO](https://skoppalu.github.io/Path-Traversal-Visualizer/)
 
 ## Algorithms Implemented
 - Dijkstra's
